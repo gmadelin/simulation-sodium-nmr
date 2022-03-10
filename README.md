@@ -1,4 +1,4 @@
-# simulation-sodium-nmr
+# simulation_sodium_nmr
 
 ## Matlab code for simulation of sodium NMR - v02.01. 
 
